@@ -1,2 +1,4 @@
-# duaneprins.github.io
-A presentation of myself and the projects I worked on.
+# A first-level heading
+## A second-level heading
+### A third-level heading
+
